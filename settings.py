@@ -13,7 +13,7 @@ ADMINS = ()
 MANAGERS = ADMINS
 
 # Package out-of-date emails for orphans
-NOTIFICATIONS = ['arch-notifications@archlinux.org']
+NOTIFICATIONS = ['evorepo@martinvlba.eu']
 
 # Full path to the data directory
 DEPLOY_PATH = path.dirname(path.realpath(__file__))
